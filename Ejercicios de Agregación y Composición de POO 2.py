@@ -16,6 +16,5 @@ print(yang is yin.yang)
 del(yin)
 del(yang)
 print("?")
-print("?")
-print("?")
+
 
